@@ -1,0 +1,9 @@
+transformers
+torch
+transformers[torch]
+datasets
+py7zr
+sacrebleu
+rouge_score
+pandas 
+matplotlib
